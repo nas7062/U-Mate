@@ -1,5 +1,4 @@
 
- ![image](https://github.com/user-attachments/assets/5a947729-2635-4c94-a99e-30667042bb1f)
 # U:Mate
 
 ***
@@ -48,61 +47,66 @@ U:Mate는 LG U+가 제공하는 AI 챗봇 기반 요금제 추천 및 관리 서
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 ## 5. ✨Key Features(주요 기능)✨
-### 선택 여행지별 축제 및 행사 정보 추천
-선택한 지역 주변에서 진행되는 축제 및 행사 정보를 추천합니다.
-지도 위에서 주변 이벤트를 마커로 시각화해 보여줍니다.
+1. 챗봇 기반 요금제 추천
++ 사용자의 요금제 이용 이력, 회원 정보, 대화 내용, 음성/텍스트 입력을 종합적으로 분석하여 최적의 요금제를 추천합니다.
++ 대화형 인터페이스를 통해 복잡한 조건 없이 자연스럽게 요금제를 탐색할 수 있습니다.
++ 시니어 사용자를 위한 음성 입력 지원 강화
+  + 음성으로 쉽게 질문하고 답변받을 수 있어, 타이핑에 익숙하지 않은 사용자도 손쉽게 이용 가능합니다.
++ 개인화 추천 강화
+  + 로그인 상태에서는 사용자의 이전 대화 기록과 프로필 정보(나이,사용중인 요금제 등)를 기반으로 더 정교한 요금제를 추천합니다.
+  비로그인 상태에서는 세션 기반 저장을 통해, 페이지를 닫지 않는 한 이전 대화 흐름을 유지할 수 있습니다.
 
-### 여행 일정 관리 기능
-여행지를 찜 목록에 저장하고 이를 기반으로 나만의 여행 일정을 만들 수 있습니다.
-캘린더를 통해 일정을 시각화하며 날짜를 클릭하면 해당 날짜의 상세 일정으로 이동합니다.
+2. 디지털 취약 계층(시니어)을 위한 전용 페이지(바로가기 페이지)
++ 시니어 사용자의 접근성과 사용성을 고려한 별도 바로가기 페이지를 구현하였습니다.
++ 필수 기능만을 큼직한 버튼으로 구성, 한눈에 보기 쉽고 조작이 편리합니다.
++ 복잡한 기존 통신사 사이트 구조와 차별화된 심플하고 직관적인 인터페이스 제공을 통해 시니어도 쉽게 주요기능에 접근 가능합니다.
 
-### 여행 일정 관리에는 다음 기능이 포함됩니다
-+ 방문 날짜 설정
-+ 일정 간 이동 동선 정리
-+ 시작일 ~ 종료일까지의 일정 커스터마이징
+3. 요금제별 사용자 리뷰 시스템
++ 요금제별로 사용자가 직접 리뷰 및 별점을 남길 수 있습니다.
++ CRUD 기능 지원: 생성(Create), 조회(Read), 수정(Update), 삭제(Delete)
++ 다른 사용자의 리뷰를 통해 실제 사용 경험 기반의 신뢰도 높은 정보 제공합니다.
 
-### 지도(Map) 기반 관광지 탐색 기능
-선택한 지역 내의 관광지 및 축제를 지도에 마커로 표시합니다.
-마커 클릭 시 모달이 나타나며, 디테일 페이지로 이동할 수 있습니다.
-사용자가 선택한 지역을 벗어나 지도를 클릭하면 "이 지역 재검색" 버튼이 나타나고, 해당 지역의 관광지를 다시 검색할 수 있습니다.
+4. 챗봇 만족도 조사 기능
++ 사용자는 챗봇 대화가 끝난 뒤 만족도 평가 및 피드백 제출이 가능합니다.
++ 피드백은 챗봇 개선 및 추천 알고리즘 고도화에 반영됩니다.
 
-### 찜 기능 및 마이페이지
-원하는 관광지를 찜할 수 있으며, 마이페이지에서 사용자별 찜 목록을 확인할 수 있습니다.
+5. 요금제 목록 페이지
++ 약 50여 개의 요금제를 다양한 필터(연령, 가격, 데이터, 음성, 혜택 등) 를 통해 탐색할 수 있습니다.
++ 사용자의 조건에 맞는 요금제를 쉽고 빠르게 찾을 수 있도록 지원합니다.
 
-### 마이페이지에서는 다음 기능을 지원합니다
-+ 프로필 이미지 및 이름 변경
-+ 찜한 여행지 목록 확인
-+ 저장한 여행 일정 관리
+6. 요금제 비교 분석 기능
++ 2개 이상의 요금제를 선택하여 주요 항목(데이터, 음성, 영상, 혜택 등) 을 표 형태로 직관적으로 비교할 수 있습니다.
++ 사용자가 현재 이용 중인 요금제는 자동으로 ‘요금제 1’ 위치에, 비교 대상은 **‘요금제 2’**에 배치됩니다.
++ 차이가 있는 항목은 컬러로 강조하여 차이점을 한눈에 파악할 수 있도록 시각적으로 설계하였습니다.
++ 복잡한 정보 없이, 실질적인 차이만 쉽게 확인할 수 있도록 구성되어 있습니다.
 
-### 기술 및 UX 요소
-+ KakaoMap API를 활용한 지도 및 위치 기반 기능
-+ React Spring을 이용한 바텀시트 애니메이션 구현
-+ 모바일 퍼스트 기반 반응형 웹사이트 제작
-+ 직관적인 UI/UX 흐름과 사용자 중심의 기능 구성
-+ 공통 컴포넌트 개발 => 재사용성과 유지보수 유용
-
-
+7. 회원가입 및 로그인 기능
++ JWT 기반 로그인 구현으로 사용자 인증 상태를 안전하게 유지합니다.
++ 로그인 시 서버에서 암호화된 JWT 토큰을 발급하고, 클라이언트는 이를 저장해 인증 요청에 사용합니다.
++ CSRF 토큰을 함께 적용하여 이중 보안 체계를 갖췄습니다.
++ 로그인 시 이메일 인증 완료 여부를 검증하여, 인증되지 않은 계정의 접근을 차단합니다.
++ 로그인된 사용자는 이전 챗봇 대화 기록 및 개인화된 요금제 추천 기능을 이용할 수 있습니다
 
 ## 6.Team Members (팀원 소개)
 <table>
   <tbody>
     <tr> 
-      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/200718064?v=4"width="100px;" alt=""/><br /><sub><b>김준서(팀장)</b></sub></a><br /></td>
-       <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/139459405?v=4"width="100px;" alt=""/><br /><sub><b>홍석준</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/84384915?v=4"width="100px;" alt=""/><br /><sub><b>김민석</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/196058650?v=4" width="100px;" alt=""/><br /><sub><b>김예지</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/144529720?v=4" width="100px" alt=""/><br /><sub><b>김현우(팀장)</b></sub></a><br /></td>
+       <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/84384915?v=4"width="100px;" alt=""/><br /><sub><b>김민석</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/196058650?v=4"width="100px;" alt=""/><br /><sub><b>백세진</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/75061562?v=4" width="100px;" alt=""/><br /><sub><b>염승아</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/196058650?v=4" width="100px;" alt=""/><br /><sub><b>이승우</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
 
 ## 7.주요 화면 
 <h3 align="center">📱 주요 화면 미리보기</h3>
-
 <table align="center">
   <tr>
     <td align="center" >
-      <img src="https://github.com/user-attachments/assets/fadb37ca-a8ee-4ee4-a798-11cc594b08a5" height="400" /><br />
-      <sub>📍 여행지 찜하기 및 찜 취소 기능</sub>
+      <img src="https://github.com/user-attachments/assets/8ebfabee-4758-4d6a-be7c-fe3c57894c44" height="400" /><br />
+      <sub>📍 디지털 취약 계층을 위한 바로가기 페이지 </sub>
     </td>
     <td align="center" >
       <img src="https://github.com/user-attachments/assets/26dd7160-f915-4ba3-b857-2092fd815818" height="400" /><br />
