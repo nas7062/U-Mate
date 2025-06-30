@@ -25,13 +25,10 @@ U:Mate는 LG U+가 제공하는 AI 챗봇 기반 요금제 추천 및 관리 서
 특히 디지털에 익숙하지 않은 시니어 세대도 쉽게 사용할 수 있도록간편한 인터페이스와 음성 기반 안내 기능도 함께 제공합니다.
 ***
 
-## 3.RoadPick에 대해 더 알아보고 싶다면?
-#### RoaPick : [RoadPick 보러가기](https://roadpick.vercel.app/)
-#### BackEnd : [백엔드 보러가기](https://github.com/yeji424/road-pick-be)
-#### Notion : [노션 보러가기](https://www.notion.so/02-RoadPick-1f2909eda57a80448846f4bff6bb5469)
-#### 약식 기획서 : [약식기획서 보러가기](https://www.figma.com/board/682PYclPlZjnhhKLoljtbP/미니프로젝트2?node-id=0-1&p=f&t=ETvBB8MUwiWQPQku-0)
-#### 디자인 시안 : [디자인 시안 보러가기](https://www.figma.com/board/682PYclPlZjnhhKLoljtbP/미니프로젝트2?node-id=0-1&p=f&t=ETvBB8MUwiWQPQku-0https://www.figma.com/design/2fA8rdz6ypZK6xTvbVprQP/%EB%A1%9C%EB%93%9C%ED%94%BD-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%95%88?node-id=22-1770&t=h6zhpXnc8AbktqVj-1)
-#### WBS : [WBS 보러가기](https://docs.google.com/spreadsheets/d/1MeRaUqhyLBdnbJ1xWZwYskkkvgW8nHJ1sbBKV01hfm8/edit?gid=0#gid=0)
+## 3.U:Mate에 대해 더 알아보고 싶다면?
+#### RoaPick : [U:Mate 보러가기](https://umate.vercel.app/)
+#### BackEnd : [백엔드 보러가기](https://github.com/U-Mate/back)
+#### Notion : [노션 보러가기](https://www.notion.so/U-Mate-220101197f7080d58047d933367c231d)
 
 ## 4. 기술 스택
 ## FrontEnd 
@@ -104,17 +101,18 @@ U:Mate는 LG U+가 제공하는 AI 챗봇 기반 요금제 추천 및 관리 서
 <h3 align="center">📱 주요 화면 미리보기</h3>
 <table align="center">
   <tr>
-    <td align="center" >
-      <img src="https://github.com/user-attachments/assets/8ebfabee-4758-4d6a-be7c-fe3c57894c44" height="400" /><br />
-      <sub>📍 디지털 취약 계층을 위한 바로가기 페이지 </sub>
-    </td>
-    <td align="center" >
-      <img src="https://github.com/user-attachments/assets/26dd7160-f915-4ba3-b857-2092fd815818" height="400" /><br />
-      <sub>🎉 여행지 검색 및 상세 정보 확인</sub>
-    </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/0d5cf1a2-da97-4e69-b8c5-101f96ef639e" height="400" /><br />
-      <sub>🔐react-spring 활용한 바텀 시트 </sub>
+      <img src="https://github.com/user-attachments/assets/c916d99f-1c34-4e95-8d01-52a231467189" height="400" /><br />
+      <sub>📍첫 사용자들을 위한 온보딩 </sub>
+    </td>
+    <td align="center" >
+
+      <img src="https://github.com/user-attachments/assets/1da6e60d-e8ae-4e91-bb7b-fa42efc191f0" height="400" /><br />
+      <sub>🎉 디지털 취약 계층을 위한 바로가기 페이지</sub>
+    </td>
+
+      <img src="https://github.com/user-attachments/assets/9c0ef838-e6d4-4a89-b52b-af3dec058f53" height="400" /><br />
+      <sub>🔐요금제 페이지 필터링 기능 </sub>
     </td>
   </tr>
   <tr>
