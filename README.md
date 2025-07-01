@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/27a742f6-b93d-485a-b9bb-e39945261476)
 # U:Mate
 
 ***
@@ -26,23 +26,17 @@ U:Mate는 LG U+가 제공하는 AI 챗봇 기반 요금제 추천 및 관리 서
 ***
 
 ## 3.U:Mate에 대해 더 알아보고 싶다면?
-#### RoaPick : [U:Mate 보러가기](https://umate.vercel.app/)
+#### U:Mate : [U:Mate 보러가기](https://umate.vercel.app/)
 #### BackEnd : [백엔드 보러가기](https://github.com/U-Mate/back)
 #### Notion : [노션 보러가기](https://www.notion.so/U-Mate-220101197f7080d58047d933367c231d)
 
 ## 4. 기술 스택
-## FrontEnd 
-### 개발환경 : <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" />
-### 프레임워크 : <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> 
-### 스타일링 : <img src="https://img.shields.io/badge/CSS%20Module-264de4?style=for-the-badge&logo=css3&logoColor=white" />
-### 라이브러리 : <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=white" /> <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" /> <img src="https://img.shields.io/badge/React%20Spring-88CCF1?style=for-the-badge&logo=react&logoColor=black" />
-### 배포 : <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-## BackEnd
-### 서버 환경 : <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"> 
-### DataBase : <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=Mongoose&logoColor=white">
-## Cooperation
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+개발환경 :<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white" /> </br>
+프레임워크 :<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" /> </br>
+상태관리 :<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" /></br>
+스타일링 :<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> </br>
+데이터베이스 :<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> </br>
+협업 도구 :<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 ## 5. ✨Key Features(주요 기능)✨
 1. 챗봇 기반 요금제 추천
 + 사용자의 요금제 이용 이력, 회원 정보, 대화 내용, 음성/텍스트 입력을 종합적으로 분석하여 최적의 요금제를 추천합니다.
@@ -106,272 +100,77 @@ U:Mate는 LG U+가 제공하는 AI 챗봇 기반 요금제 추천 및 관리 서
       <sub>📍첫 사용자들을 위한 온보딩 </sub>
     </td>
     <td align="center" >
-
       <img src="https://github.com/user-attachments/assets/1da6e60d-e8ae-4e91-bb7b-fa42efc191f0" height="400" /><br />
       <sub>🎉 디지털 취약 계층을 위한 바로가기 페이지</sub>
     </td>
-
-      <img src="https://github.com/user-attachments/assets/9c0ef838-e6d4-4a89-b52b-af3dec058f53" height="400" /><br />
+    <td align ="center">
+      <img src="https://github.com/user-attachments/assets/fb480c36-f885-4589-9a60-247964a2ae7a" height="400" /><br />
       <sub>🔐요금제 페이지 필터링 기능 </sub>
+    </td>
+     <td align ="center">
+      <img src="https://github.com/user-attachments/assets/9a477470-88c0-4fa9-9cb3-d86effdc5389" height="400" /><br />
+      <sub>🔐요금제 비교 기능 </sub>
     </td>
   </tr>
   <tr>
     <td align="center" >
-      <img src="https://github.com/user-attachments/assets/17c896f6-907b-4290-959e-a1f1992c58f2" height="400" /><br />
-      <sub>🗺️ 지도에서 관광지 & 축제 정보 확인 및 마커 표시 변경</sub>
+      <img src="https://github.com/user-attachments/assets/ab45db0a-e6a7-42e2-9887-f69c3431629a" height="400" /><br />
+      <sub>🗺️ 리뷰 작성 기능 </sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/26e0d347-2f1d-44c8-bc2e-a3b1cfd307f6" height="400" /><br />
-      <sub>📆 여행 계획 생성 및 내 여행 목록 확인</sub>
+      <img src="https://github.com/user-attachments/assets/affe234d-1b66-4658-a439-fab61cdb0e54" height="400" /><br />
+      <sub>📆 리뷰 수정 및 삭제 기능 </sub>
     </td>
     <td align="center" >
-      <img src="https://github.com/user-attachments/assets/03e31f06-0c4a-4a67-b1df-95434aea822a" height="400" /><br />
-      <sub>👤여행 세부 일정 추가 및 이동 경로 시각화</sub>
+      <img src="https://github.com/user-attachments/assets/303db2e5-96ae-433b-826b-164d036e7f52" height="400" /><br />
+      <sub>👤챗봇 개인화 대화 기능</sub>
+    </td>
+     <td align ="center">
+      <img src="https://github.com/user-attachments/assets/62db3362-8d09-47d6-97b4-94e3753e975d" height="400" /><br />
+      <sub>🔐챗봇 만족도 조사 기능</sub>
     </td>
   </tr>
 </table>
 
 ## 8. 🛠 트러블슈팅 & 개선 사례
-#### 🔧 1. 공통 컴포넌트 설계로 재사용성 향상
-<img src="https://github.com/user-attachments/assets/6adc7440-2db2-44ce-a4ff-563f6760752b" width="400"/> <br />
-
+#### 🔧 1. 리뷰작성자 탈퇴 시 리뷰 신뢰성 문제
 📌 문제
-여러 컴포넌트를 화면마다 반복 작성
-변경 시 일일이 수정해야 해서 유지보수 비효율 발생
+리뷰를 기반으로 각 나이대에 맞는 요금제를 추천하고 있으나, 사용자가 탈퇴할 경우 개인정보 보호를 위해 생년월일이 완전히 삭제되어 나이대 정보가 사라짐. 이로 인해 리뷰의 신뢰성과 통계 기반 추천의 정확도가 저하되는 문제가 발생함.
 
 ✅ 해결
-props와 name을 이용해 공통 컴포넌트 설계
-유연하게 커스터마이징 가능한 구조로 개발
+사용자의 생년월일 중 연도 정보만 별도로 보존하여 개인정보 보호 원칙을 지키면서도 최소한의 나이대 분석이 가능하도록 개선함.
 
 🎯 효과
-코드 재사용성 증가
-컴포넌트 일관성 확보
-협업 및 유지보수 효율화
-
-#### 🚨 2. API 호출 오류 대응 + 캐싱 처리
-<img src="https://github.com/user-attachments/assets/3299bd96-6d72-4271-9934-2ea479c5cb6b" width="400"/> <br />
-
++ 탈퇴 이후에도 연령대 기반 통계 유지 가능
++ 요금제 추천을 위한 리뷰 신뢰성 향상
++ 개인정보 보호와 데이터 활용 간의 균형 확보
+#### 🚨 2. OpenAI Real-Time API 한국어 호환 문제
 📌 문제
-외부 API 호출 중 간헐적 실패 발생
-빈 화면 또는 데이터 미노출 이슈 발생 (429에러) 많은 호출 
-
+OpenAI의 Real-Time API를 활용하여 음성 기반의 한국어 대화 기능을 구현하고자 하였으나, 한국어의 음성 인식 및 합성 품질이 충분히 안정적이지 않아 실제 사용자 환경에서는 자연스러운 대화 흐름이 어렵고 실사용이 불가능한 수준임.
 ✅ 해결
-sessionStorage에 정상 데이터 캐싱
-오류 발생 시 캐시 데이터로 대체 렌더링
-TanStack Query(React Query)로 데이터 상태 관리 및 에러 핸들링
-
+보다 안정적인 Speech Synthesis API 및 Web Speech API를 활용하여 브라우저 기반 음성 입출력 기능으로 대체함. 특히 한국어 인식률이 높은 브라우저 환경에 최적화된 방식으로 구성.
 🎯 효과
-사용자 경험 개선 (에러 시에도 데이터 제공)
-상태 관리 체계 강화 → 안정적 앱 구성
++ 보다 안정적인 한국어 음성 입출력 환경 확보
++ 실사용 가능 수준의 자연스러운 대화 흐름 구현
++ 외부 API의 제약 없이 브라우저에서 직접 동작 가능하여 확장성 및 유지보수 용이
 
-#### 🌐 3. 공공 API 파라미터 변경 대응
-<img src="https://github.com/user-attachments/assets/994fbc14-4194-470a-bdf5-dd86026d5000" width="400"/> <br />
+
+#### 🌐 3. 사용자 대상 구체화
 📌 문제
-한국관광공사 API 응답 실패
-원인은 API 파라미터 변경 (문서 업데이트 미반영)
-
+디지털 취약 계층도 쉽게 사용할 수 있도록 접근성과 편의성을 고려한 설계를 시도했으나, 디지털 취약 계층이라는 개념이 포괄적이어서 어떤 사용자를 중심으로 설계할 것인지가 불분명했고, 이로 인해 기능 범위 확정과 UI/UX 방향성 설정에 어려움이 있었음.
 ✅ 해결
-공식 문서 확인 후 변경된 파라미터 반영
-테스트를 통해 호출 정상화 확인
+디지털 취약 계층 중 '시니어 사용자'로 대상을 구체화
+시니어 기기의 ‘큰 글씨 보기’ 기능에 대응하기 위해 폰트 단위를 px에서 rem으로 일괄 변경
+바로가기 페이지 및 온보딩 절차 제공으로 초기 진입 장벽 완화
+음성 지원 기능 추가로 텍스트 입력에 대한 부담 최소화
 
 🎯 효과
-빠르게 문제 진단 및 대응
-외부 API 사용 시 문서 체크 및 예외 대응 역량 강화
++ 대상 사용자에 특화된 UI/UX 설계 가능
++ 고령 사용자도 별도 학습 없이 쉽게 이용 가능
++ 접근성·편의성 모두 확보하여 실질적인 사용자 경험 개선
 
-#### 🌐 4. 페이지 로딩 지연 대응
 
-📌 문제
-페이지 처음 접근 시 로딩이 길어지는 현상.
-
-✅ 해결
-lazy를 사용해 import가 된후 생성되게끔,  img에는 loding="lazy"추가
-=> 이때 화면에 주가 되는 부분은 하면 안됨 처음 화면에 보이지 않는 요소중 
-🎯 효과
-빠른 로딩시간, 사용자 경험(UX)증가
-
-## 9.폴더 구조
-<details>
-  <summary>FrontEnd</summary>
- 
-```plaintext
-📦src
- ┣ 📂apis
- ┃ ┣ 📜authApi.js
- ┃ ┣ 📜favoriteApi.js
- ┃ ┣ 📜getKeywordTourList.js
- ┃ ┣ 📜getLocationTourList.js
- ┃ ┣ 📜getTourDetailCommon.js
- ┃ ┣ 📜getTourDetailIntro.js
- ┃ ┣ 📜getTourList.js
- ┃ ┣ 📜index.js
- ┃ ┣ 📜scheduleApi.js
- ┃ ┣ 📜schedulsDetailApi.js
- ┃ ┗ 📜userApi.js
- ┣ 📂assets
- ┃ ┣ 📂icons
- ┃ ┃ ┣ 📜addIcon.svg
- ┃ ┃ ┣ 📜AppIcon.svg
- ┃ ┃ ┣ 📜archiveAddIcon.svg
- ┃ ┃ ┣ 📜arrowLeftIcon.svg
- ┃ ┃ ┣ 📜arrowUpIcon.svg
- ┃ ┃ ┣ 📜calendarIcon.svg
- ┃ ┃ ┣ 📜checkBoxIcon.svg
- ┃ ┃ ┣ 📜checkIcon.svg
- ┃ ┃ ┣ 📜eye-close.svg
- ┃ ┃ ┣ 📜eye-open.svg
- ┃ ┃ ┣ 📜googleIcon.svg
- ┃ ┃ ┣ 📜homeIcon.svg
- ┃ ┃ ┣ 📜kakaoIcon.svg
- ┃ ┃ ┣ 📜loginIcon.svg
- ┃ ┃ ┣ 📜logoutIcon.svg
- ┃ ┃ ┣ 📜markerDefault.svg
- ┃ ┃ ┣ 📜markerSelected.svg
- ┃ ┃ ┣ 📜moreIcon.svg
- ┃ ┃ ┣ 📜PlusBtnIcon.svg
- ┃ ┃ ┣ 📜refresh.svg
- ┃ ┃ ┣ 📜saveIcon.svg
- ┃ ┃ ┣ 📜searchIcon.svg
- ┃ ┃ ┣ 📜starIcon.svg
- ┃ ┃ ┗ 📜userIcon.svg
- ┃ ┗ 📂imgs
- ┃ ┃ ┣ 📜BannerImg1.png
- ┃ ┃ ┣ 📜BannerImg2.png
- ┃ ┃ ┣ 📜noImageImg.png
- ┃ ┃ ┣ 📜ProfileBasicImg.png
- ┃ ┃ ┣ 📜registerImg.png
- ┃ ┃ ┗ 📜TripListImg.png
- ┣ 📂components
- ┃ ┣ 📂common
- ┃ ┃ ┣ 📂BottomSheet
- ┃ ┃ ┃ ┣ 📜BottomSheet.jsx
- ┃ ┃ ┃ ┣ 📜BottomSheet.module.css
- ┃ ┃ ┃ ┣ 📜BottomSheetContent.jsx
- ┃ ┃ ┃ ┣ 📜BottomSheetPlan.jsx
- ┃ ┃ ┃ ┗ 📜generateDateRange.js
- ┃ ┃ ┣ 📂Calendar
- ┃ ┃ ┃ ┣ 📜Calendar.jsx
- ┃ ┃ ┃ ┣ 📜Calendar.module.css
- ┃ ┃ ┃ ┗ 📜CalendarLogic.js
- ┃ ┃ ┣ 📂Footer
- ┃ ┃ ┃ ┗ 📜Footer.jsx
- ┃ ┃ ┣ 📂Header
- ┃ ┃ ┃ ┣ 📜Header.jsx
- ┃ ┃ ┃ ┗ 📜Header.module.css
- ┃ ┃ ┣ 📂ListCard
- ┃ ┃ ┃ ┣ 📜HeartToggle.jsx
- ┃ ┃ ┃ ┣ 📜ListCard.jsx
- ┃ ┃ ┃ ┗ 📜ListCard.module.css
- ┃ ┃ ┣ 📂Map
- ┃ ┃ ┃ ┣ 📜DetailMap.jsx
- ┃ ┃ ┃ ┣ 📜DetailMap.module.css
- ┃ ┃ ┃ ┣ 📜Map.jsx
- ┃ ┃ ┃ ┣ 📜Map.module.css
- ┃ ┃ ┃ ┣ 📜MapModal.jsx
- ┃ ┃ ┃ ┣ 📜MapModal.module.css
- ┃ ┃ ┃ ┣ 📜PlanMap.jsx
- ┃ ┃ ┃ ┗ 📜TourApi.js
- ┃ ┃ ┣ 📂Modal
- ┃ ┃ ┃ ┣ 📜AlertModal.jsx
- ┃ ┃ ┃ ┣ 📜AlertModal.module.css
- ┃ ┃ ┃ ┣ 📜DeleteModal.jsx
- ┃ ┃ ┃ ┣ 📜LogoutModal.jsx
- ┃ ┃ ┃ ┣ 📜Modal.module.css
- ┃ ┃ ┃ ┣ 📜ModalRoot.jsx
- ┃ ┃ ┃ ┣ 📜PlanModal.jsx
- ┃ ┃ ┃ ┣ 📜RegisterModal.jsx
- ┃ ┃ ┃ ┗ 📜RegistModal.jsx
- ┃ ┃ ┣ 📂Navbar
- ┃ ┃ ┃ ┣ 📜Navbar.jsx
- ┃ ┃ ┃ ┗ 📜Navbar.module.css
- ┃ ┃ ┣ 📂RelativeOptionCard
- ┃ ┃ ┃ ┣ 📜RelativeOptionCard.jsx
- ┃ ┃ ┃ ┗ 📜RelativeOptionCard.module.css
- ┃ ┃ ┗ 📂Search
- ┃ ┃ ┃ ┣ 📜SearchCard.jsx
- ┃ ┃ ┃ ┗ 📜SearchCard.module.css
- ┃ ┣ 📂detail
- ┃ ┃ ┣ 📂FestivalSlider
- ┃ ┃ ┃ ┣ 📜FestivalSlider.jsx
- ┃ ┃ ┃ ┗ 📜FestivalSlider.module.css
- ┃ ┃ ┣ 📜Detail.module.css
- ┃ ┃ ┣ 📜DetailBasicInfo.jsx
- ┃ ┃ ┣ 📜DetailContent.jsx
- ┃ ┃ ┣ 📜DetailImage.jsx
- ┃ ┃ ┣ 📜DetailTitle.jsx
- ┃ ┃ ┗ 📜FestivalInfo.jsx
- ┃ ┣ 📂EventBanner
- ┃ ┃ ┣ 📜EventBanner.jsx
- ┃ ┃ ┗ 📜EventBanner.module.css
- ┃ ┣ 📂loading
- ┃ ┃ ┣ 📜Spinner.jsx
- ┃ ┃ ┗ 📜Spinner.module.css
- ┃ ┗ 📂mypageTaps
- ┃ ┃ ┣ 📜FriendsList.jsx
- ┃ ┃ ┣ 📜MypageListCard.jsx
- ┃ ┃ ┣ 📜mypageTaps.module.css
- ┃ ┃ ┣ 📜MyTrips.jsx
- ┃ ┃ ┗ 📜SavedList.jsx
- ┣ 📂hooks
- ┃ ┣ 📜requireAuth.jsx
- ┃ ┣ 📜useDeleteFavorite.js
- ┃ ┣ 📜useDetailsCommon.js
- ┃ ┣ 📜useFavorite.js
- ┃ ┣ 📜useKeywordList.js
- ┃ ┣ 📜useLocationTourList.js
- ┃ ┣ 📜useModal.jsx
- ┃ ┣ 📜usePopularTourList.js
- ┃ ┣ 📜useRecommendTourList.js
- ┃ ┣ 📜useScheduleDetail.js
- ┃ ┣ 📜useScheduleList.js
- ┃ ┣ 📜useTourDetail.js
- ┃ ┗ 📜useTourList.js
- ┣ 📂layout
- ┃ ┗ 📜MainLayout.jsx
- ┣ 📂loaders
- ┃ ┣ 📜kakaoLoader.js
- ┃ ┗ 📜listLoader.js
- ┣ 📂pages
- ┃ ┣ 📜CalendarPage.jsx
- ┃ ┣ 📜CalendarPage.module.css
- ┃ ┣ 📜DetailPage.jsx
- ┃ ┣ 📜DetailPage.module.css
- ┃ ┣ 📜FirstLoadingPage.jsx
- ┃ ┣ 📜ListPage.jsx
- ┃ ┣ 📜LoginPage.jsx
- ┃ ┣ 📜LoginPage.module.css
- ┃ ┣ 📜MainPage.jsx
- ┃ ┣ 📜MainPage.module.css
- ┃ ┣ 📜MapPage.jsx
- ┃ ┣ 📜MapPage.module.css
- ┃ ┣ 📜MyPage.jsx
- ┃ ┣ 📜MyPage.module.css
- ┃ ┣ 📜NotFoundPage.jsx
- ┃ ┣ 📜PlanPage.jsx
- ┃ ┣ 📜PlanPage.module.css
- ┃ ┣ 📜ProfileEditPage.jsx
- ┃ ┣ 📜ProfileEditPage.module.css
- ┃ ┣ 📜RegisterPage.jsx
- ┃ ┣ 📜SaveListPage.jsx
- ┃ ┣ 📜SaveListPage.module.css
- ┃ ┣ 📜SearchPage.jsx
- ┃ ┣ 📜SearchPage.module.css
- ┃ ┣ 📜SearchPopularPage.jsx
- ┃ ┣ 📜SelectDatePage.jsx
- ┃ ┗ 📜SelectDatePage.module.css
- ┣ 📂routes
- ┃ ┗ 📜AppRouter.jsx
- ┣ 📂store
- ┃ ┣ 📜authSlice.js
- ┃ ┗ 📜store.js
- ┣ 📂utils
- ┃ ┗ 📜features.js
- ┣ 📜app.jsx
- ┣ 📜index.css
- ┗ 📜main.jsx
-```
-</details>
-
-## 10. Development Workflow (개발 워크플로우)
+## 9. Development Workflow (개발 워크플로우)
 ### 브랜치 전략
 | 커밋 유형 | 의미 |
 | --- | --- |
@@ -395,7 +194,7 @@ lazy를 사용해 import가 된후 생성되게끔,  img에는 loding="lazy"추�
 ### Prettier
 ```
 {
-  "semi": false,
+  "semi": true,
   "singleQuote": true,
   "tabWidth": 2,
   "trailingComma": "es5",
@@ -405,24 +204,58 @@ lazy를 사용해 import가 된후 생성되게끔,  img에는 loding="lazy"추�
   "endOfLine": "auto"
 }
 ```
+## 수행절차 로드맵
+![image](https://github.com/user-attachments/assets/6bd48961-d668-4af7-81dc-0a80b1927dcb)
 
 ## 테이블 구조
- <img src="https://github.com/user-attachments/assets/e8d24147-6b0f-44ff-92bd-e72efd17dfb3" height="400" width="600" />
+![image](https://github.com/user-attachments/assets/846eeb59-7931-4e02-8cf5-a874db37cb47)
 
+## 개발과정 기록
+1. 안내페이지 경연대회
+서비스 초기 진입 시 사용자에게 정보를 효과적으로 전달하기 위해 안내 페이지 디자인을 다양하게 시도하였으며, 이를 내부 경연 방식으로 구성하여 가장 효과적인 시안을 선정하였습니다.
+시안 비교를 통해 UX 직관성, 색상 대비, 정보 전달력 등을 평가
+사용자의 첫인상과 클릭 유도 효과 분석
 
-## 유저플로우 
- <img src="https://github.com/user-attachments/assets/6909a8da-7f7a-4270-ae40-b23c870c79a9" height="400" width="600" />
+2. 공통 컴포넌트 분류
+프로젝트의 유지보수성과 일관된 UI/UX를 위해 컴포넌트 분류 작업을 체계적으로 정리하였습니다.
+공통 요소 분리 및 정리(버튼, 카드, 리스트 등)
+작업 우선순위 및 사용 페이지 명세를 문서화하여 협업 효율성 강화
+
+3. 요금제 상세페이지 경연대회
+요금제 페이지는 사용자의 서비스 선택에 직접적인 영향을 미치는 핵심 콘텐츠로, 다양한 레이아웃 및 가격 강조 방식을 시도하였습니다.
+가격 강조 및 혜택 정보의 시각적 전달력 평가
+내부 피드백을 통해 가장 사용자 친화적인 구조 선정
+
+4. 스토리 포인트 설계
+프로젝트 개발 과정에서는 각 작업 항목별로 난이도와 소요 시간을 정량적으로 추정하기 위해 스토리 포인트 방식을 도입하였습니다.
+모든 팀원이 각 작업에 대해 난이도 점수를 투표하여 스토리 포인트를 산정
+이를 통해 작업량을 균등하게 배분하고, 특정 인원에게 부담이 쏠리지 않도록 조율
+팀 전체의 **작업 속도(Velocity)**를 추적하며 주차별 일정 조정 및 리소스 계획에 활용
+스프린트 회고 시 실제 소요 시간과 비교하여 예측 정확도 개선
+이 방식은 개발 과정의 투명성, 공정성, 협업 효율성을 동시에 향상시키는 데 기여하였습니다.
+
+![image](https://github.com/user-attachments/assets/ee06dd49-09c8-43e9-9a8c-8088abea37e8)
 
 
 ## 개선 목표
-1. **여행 일정 공유**
-    사용자가 직접 작성한 여행 일정을 **함께 여행하는 친구들과 쉽게 공유할 수 있는 기능**을 추가합니다.
-2. **AI를 활용한 여행 일정 및 동선 제시**
-     GPT API를 활용하여 여행 기간을 입력 시, 여행 일정 및 동선을 자동으로 제시합니다.
-3.  API호출 다 받아서 DB에 저장하기
-4.  여행지 후기 작성 서비스 구현
-5.  Kakao, Google O Auth 구현
-6.  지도 페이지에서 재탐색 했을 때 지도 확대 레벨 수정 (지도가 2중으로 겹치는 현상? 때문에 이상하게 보임)
+1. 리뷰 유도 강화
+사용자에게 요금제 이용 후 리뷰를 작성하도록 유도
+요금제 변경 시점에 맞춘 리마인드 리뷰 요청 팝업 또는 배너 제공
+리뷰 작성 시 포인트 또는 혜택 제공 이벤트와 연계
+
+2. 만족도 조사 및 피드백 수집
+간단한 별점 평가 + 주관식 의견을 통해 정성·정량 데이터 동시 수집
+설문 응답자에게 이벤트 참여 기회 제공으로 참여율 제고
+사용자 유형별 만족도 분석을 통해 요금제 개선 및 개인화 추천에 활용
+
+3. 즐겨찾기 기능 도입
+자주 사용하는 요금제나 스토리 카드를 즐겨찾기로 저장 가능하도록 구현
+즐겨찾기 기반 빠른 접근 UI 제공으로 사용자 편의성 향상
+
+5. 챗봇 시각화 및 사용자 경험 강화
+챗봇 UI를 더 직관적이고 친근한 그래픽 기반 인터페이스로 개선
+상황별 추천 카드, 음성 입출력, 애니메이션 반응 등 시각적 피드백 추가
+시니어 사용자 등 디지털 취약계층도 쉽게 사용할 수 있도록 접근성 최적화
 
 ## 프로젝트 소감
-
+좋은 팀원들분과 많은 소통을 하며 소통의 중요성을 다시한번 느꼇고 챗봇을 활용한 프로젝트가  좋은 경험이 되었습니다. 
