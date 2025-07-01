@@ -1,6 +1,5 @@
-![image](https://github.com/user-attachments/assets/27a742f6-b93d-485a-b9bb-e39945261476)
-# U:Mate
 
+# U:Mate
 ***
 ## 1. Project Overview (프로젝트 개요)
 
